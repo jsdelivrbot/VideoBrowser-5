@@ -11,7 +11,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/Mats2Nithin/Videobrowser.git
-> cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
