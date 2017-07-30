@@ -1,6 +1,6 @@
 
 
-##A Video browser using React js
+## A Video browser using React js
 
 ### Getting Started
 
